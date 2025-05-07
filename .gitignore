@@ -1,0 +1,22 @@
+# compiled C++ objects and binaries
+*.o
+*.out
+*.exe
+*.log
+*.a
+*.so
+*.dSYM/
+*.DS_Store
+build/
+bin/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+
+# Jupyter notebooks checkpoints
+..ipynb_checkpoints/
