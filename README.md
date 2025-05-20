@@ -20,7 +20,7 @@ FXCore focuses on the core challenges of FX trading infrastructure — reliably 
 - Real-time order book updates with minimal delay
 - Modular design allowing easy extension and integration
 
-##Performance
+## Performance
 
 - Handles thousands of messages per second with low CPU overhead
 - Optimized for sub-millisecond latency processing
