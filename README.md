@@ -13,6 +13,19 @@ FXCore focuses on the core challenges of FX trading infrastructure — reliably 
 - Efficient message parsing and order book construction  
 - Cross-platform build system using CMake
 
+## Features
+
+- High-throughput UDP multicast listener optimized for FX data
+- Parsing and decoding of market data messages
+- Real-time order book updates with minimal delay
+- Modular design allowing easy extension and integration
+
+##Performance
+
+- Handles thousands of messages per second with low CPU overhead
+- Optimized for sub-millisecond latency processing
+- Lightweight memory footprint
+
 ## How to Build and Run
 
 ```bash
